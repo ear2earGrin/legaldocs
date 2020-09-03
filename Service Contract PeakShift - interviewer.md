@@ -3,13 +3,6 @@ SERVICE_PROVIDER_NAME: Jane Doe
 COMPANY_ADDRESS: 21 Moskovska St. B, fl.3, Sofia
 ---
 
-### TASKS
-- [x] format
-- [x] change PROVIDER -> SERVICE_PROVIDER
-- [x] fix the numbering / art 9 - abc...
-
---
-
 **Client**: Peak Shift Ltd.
 
 **Service Provider**: Individual {{SERVICE_PROVIDER_NAME}} referred to as the "Provider" or "Service Provider"
@@ -125,9 +118,12 @@ Any services not stated above should be considered as out of the scope of this A
 2. The amount of Bitcoin received will be calculated as the equivalent of  {{provider_fee}} USD in accordance with the daily exchange rate of Bitcoin to dollar, listed on coinmarketcap.com. All prices are exclusive VAT.
 3. The CLIENT shall repay the SERVICE PROVIDER in a maximum of 14 days after the service has been completed.
 
+### Art.10. Proof of payment
+PROVIDER shall issue a proof of the received cryptocurrency as stated in Art.7.5. of this contract.
+
 ## **VI. AMENDMENTS AND TERMINATION OF THE AGREEMENT** 
 
-### Art. 10. Amendments and Termination
+### Art. 11. Amendments and Termination
 
 1. Any amendments to this Agreement must be made in writing and signed by both parties.
 
