@@ -115,7 +115,7 @@ Both sides agree that **PROVIDER** may only employ third parties to assist him i
 The **CLIENT** shall repay the **PROVIDER** in the form of the cryptocurrency bitcoin per concluded survey. The amount of bitcoin received will be calculated as the equivalent of  ____ USD in accordance with the daily exchange rate of bitcoin to dollar, listed on coinmarketcap.com. All prices are exclusive VAT.
 
 ### Art.10. Proof of payment 
-**PROVIDER** shall issue a proof of the received cryptocurrency as stated in Art.7 b. of this contract.
+**PROVIDER** shall issue a proof of the received cryptocurrency as stated in Art.7.2. of this contract.
 
  
 
