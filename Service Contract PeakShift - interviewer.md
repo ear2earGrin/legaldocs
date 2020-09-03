@@ -98,9 +98,9 @@ Any services not stated above should be considered as out of the scope of this A
 
 1. To organize and keep the information gathered for the purpose of this contract until its handling to the **CLIENT** as agreed upon in the Data processing agreement between the parties.
 2. To sign a contract provided by the **CLIENT** with the individuals the **SERVICE PROVIDER** is interviewing.
-3. To provide to the **CLIENT** a proof of the payment he has made to the individual interviewed in a maximum of a 7 days period after the interview has been carried out.
+3. To provide to the **CLIENT** a proof of the payment he has made to the individual interviewed (Interviewee) in a maximum of a 7 days period after the interview has been carried out.
 4. Tо monitor and properly apply any occurring changes in the existing legislation that are relevant to the subject of this Agreement;
-5. To document the fees received from **CLIENT**;
+5. To document the fees received from **CLIENT** and to provide to the **CLIENT** a proof of the payment which has been received by **SERVICE PROVIDER** in a maximum of a 14 days period after the survey has been carried out and the provisions of Art.7.3 of this contract have been met. The proof can be in a form of a screenshot of received fee.
 6. Not to disclose any personal information in any form whatsoever received during or in connection with the performance of this Agreement unless agreed upon by the **CLIENT** as agreed hereunder in the Data Protection and Confidentiality section.
 7. To dispose of all information collected after handing it to the **CLIENT** as agreed upon in the Data Processing Agreement, an integral part of this contract.
 
@@ -116,7 +116,7 @@ Any services not stated above should be considered as out of the scope of this A
 ### Art. 9. Methodology of payment
 1. The CLIENT shall repay the SERVICE PROVIDER in the form of the cryptocurrency "Bitcoin". 
 2. The amount of Bitcoin received will be calculated as the equivalent of  {{provider_fee}} USD in accordance with the daily exchange rate of Bitcoin to dollar, listed on coinmarketcap.com. All prices are exclusive VAT.
-3. The CLIENT shall repay the SERVICE PROVIDER in a maximum of 14 days after the service has been completed.
+3. The CLIENT shall repay the SERVICE PROVIDER in a maximum of 14 days after the service has been completed and the information gathered by SERVICE PROVIDER transfered to the CLIENT as agreed upon in Art.7 of this contract.
 
 ### Art.10. Proof of payment
 PROVIDER shall issue a proof of the received cryptocurrency as stated in Art.7.5. of this contract.
@@ -135,7 +135,7 @@ PROVIDER shall issue a proof of the received cryptocurrency as stated in Art.7.5
 
 ## **VII.     NOTICE**
 
-### Art. 11. Notice terms
+### Art. 12. Notice terms
 To avoid any misunderstanding any notices in respect of the services, including the notice of termination, must be made in writing and delivered by courier, e-mail, or by hand to the following contacts.
 
 Company info: {{company_website}}
@@ -147,14 +147,14 @@ Tel: {{company_telephone}}
 
 ## **VIII.    OTHER PROVISIONS**
 
-### Art. 12.  Disputes resolution
+### Art. 13.  Disputes resolution
 Any disputes arising out of the performance of this Agreement shall be settled by mutual agreement and in case this is not possible any such dispute shall be settled according to the Civil Procedural Code, the Obligations and Contracts Act and the existing Bulgarian legislation.
 
  
 
 ## **IX. DATA PROTECTION AND CONFIDENTIALITY** 
 
-### Art. 13. Data protection measures taken
+### Art. 14. Data protection measures taken
 1. **SERVICE PROVIDER** hereby acknowledges that **SERVICE** **PROVIDER** has taken all technical, organizational and procedural actions to ensure an effective level of personal data protection according to the provisions of the applicable law. **SERVICE PROVIDER is authorized to  process personal data provided by CLIENT in order to perform the services hereunder.** The **CLIENT** and the **SERVICE PROVIDER** shall set out in detail their personal data protection arrangements in relation to the General Data Protection Regulation in a stand-alone agreement, as an integral part of this Contract
 (Appendix № 2 - Data Processing agreement)
 
@@ -164,7 +164,7 @@ Any disputes arising out of the performance of this Agreement shall be settled b
 
  
 
-### Art. 14. Non-Disclosure 
+### Art. 15. Non-Disclosure 
 1. **SERVICE PROVIDER** shall not disclose any information related to **CLIENT** or its business unless required by law or the information becomes publicly available or when disclosure of such information has been approved by **CLIENT** in advance.
 2. **SERVICE** **PROVIDER** may disclose information to the tax or legal consultants of **CLIENT** and its auditors without the prior consent of **CLIENT**, however, only in relation to the services stated hereunder.
 
