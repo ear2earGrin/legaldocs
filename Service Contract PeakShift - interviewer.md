@@ -1,7 +1,17 @@
 ---
 SERVICE_PROVIDER_NAME: Jane Doe
 COMPANY_ADDRESS: 21 Moskovska St. B, fl.3, Sofia
+MAX_INTERVIEW_TIME: 60 mins
 ---
+
+- TASK:
+- [ ] Mental health Clause? 
+
+[TOC]
+
+# SERVICE CONTRACT
+
+## Definitions
 
 **Client**: Peak Shift Ltd.
 
@@ -17,10 +27,10 @@ COMPANY_ADDRESS: 21 Moskovska St. B, fl.3, Sofia
 
 **Fee**: an exchange of goods in the form of Bitcoin received as a form of payment from the CLIENT to the PROVIDER and the PROVIDER to the Interviewee.
 
+**meta data**: Highlighted certain aspects of an interview. 
+e.g. Device, Work position/title, Payment preferences, Technical certifications (laptop,phone type, SD card,PC,e-mail type, have they lost phone, phone storage capacity) 
 
 -----------------
-
-# SERVICE CONTRACT
 
 This, **XX.XX.2020** in the city of Sofia, between:
 
@@ -39,10 +49,9 @@ the present service agreement was signed:
 ### Art. 1.  General Terms
 **CLIENT** hereby  assigns and **SERVICE PROVIDER** agrees to provide at **CLIENT** services, described below, in compliance with the legal requirements of the respective matter:
 
-1. To host, record and store audio interviews with individuals of his choosing regarding their financial situation and habits. 
+1. To host, record and store audio interviews with individuals of his choosing regarding their financial attitudes, situation and habits. 
 2. To transcribe the audio interviews and provide the CLIENT with the collected information in accordance with the Data processing agreement.
-3. To repay the interviewees as agreed upon hereunder.
-
+3. Structure the meta data derived from interviews in the transcribed file. 
 
 ### Art. 2. Further Contractual Arrangements
 
@@ -76,29 +85,29 @@ Any services not stated above should be considered as out of the scope of this A
 
 6.    To provide the **SERVICE PROVIDER** with a standard services contract that is to be signed between the **SERVICE PROVIDER** and the interviewee. 
 
- 
-
- 
-
 ## **III.      RIGHTS AND OBLIGATIONS OF THE SERVICE PROVIDER**
 
 ### Art. 6.  SERVICE PROVIDER's rights
 
-1.      To receive the fee agreed upon hereunder;
+1. To receive the fee agreed upon hereunder;
 
-2.      To request information from **CLIENT** about anything **SERVICE PROVIDER** deems necessary for the proper performance of its duties under this agreement ;
+2. To request information from **CLIENT** about anything **SERVICE PROVIDER** deems necessary for the proper performance of its duties under this agreement ;
 
-3.       To receive any documents necessary for the proper performance of its duties under this agreement;
+3. To receive any documents necessary for the proper performance of its duties under this agreement;
 
-4.      To use at its expense the services of other persons or companies to accomplish the intention of this Contract being responsible for their actions as if taken by **SERVICE PROVIDER**.
-
- 
+4. To use at its expense the services of other persons or companies to accomplish the intention of this Contract being responsible for their actions as if taken by **SERVICE PROVIDER**.
 
 ### Art. 7.  SERVICE PROVIDER's obligations
 
+```mermaid
+graph LR
+    1(Sign Contract) --> 0(Receive Interviewee Compensation ) --> 2(Conduct 1 Interview) --> 3(Upload & Transcribe & Proof) --> 4(Get Paid - Max 7 Days) --> 5(Get approved 1 more interview)
+3--> 5.1(Terminate if no proof of payment)
+```
+
 1. To organize and keep the information gathered for the purpose of this contract until its handling to the **CLIENT** as agreed upon in the Data processing agreement between the parties.
 2. To sign a contract provided by the **CLIENT** with the individuals the **SERVICE PROVIDER** is interviewing.
-3. To provide to the **CLIENT** a proof of the payment he has made to the individual interviewed (Interviewee) in a maximum of a 7 days period after the interview has been carried out.
+3. To provide to the **CLIENT** a proof of the payment he has made to the individual interviewed (Interviewee) in a maximum of a 14 days after the interview has been carried out.
 4. Tо monitor and properly apply any occurring changes in the existing legislation that are relevant to the subject of this Agreement;
 5. To document the fees received from **CLIENT** and to provide to the **CLIENT** a proof of the payment which has been received by **SERVICE PROVIDER** in a maximum of a 14 days period after the survey has been carried out and the provisions of Art.7.3 of this contract have been met. The proof can be in a form of a screenshot of received fee.
 6. Not to disclose any personal information in any form whatsoever received during or in connection with the performance of this Agreement unless agreed upon by the **CLIENT** as agreed hereunder in the Data Protection and Confidentiality section.
@@ -115,8 +124,14 @@ Any services not stated above should be considered as out of the scope of this A
 
 ### Art. 9. Methodology of payment
 1. The CLIENT shall repay the SERVICE PROVIDER in the form of the cryptocurrency "Bitcoin". 
-2. The amount of Bitcoin received will be calculated as the equivalent of  {{provider_fee}} USD in accordance with the daily exchange rate of Bitcoin to dollar, listed on coinmarketcap.com. All prices are exclusive VAT.
+2. The amount of Bitcoin received will be calculated as the equivalent of  {{provider_fee}} USD in accordance with the current exchange rate of Bitcoin to dollar at the time of sending, listed on coinmarketcap.com. All prices are exclusive VAT.
 3. The CLIENT shall repay the SERVICE PROVIDER in a maximum of 14 days after the service has been completed and the information gathered by SERVICE PROVIDER transfered to the CLIENT as agreed upon in Art.7 of this contract.
+
+*Set amount per interview (first 30 mins, but not less than 20 min), then X equivalent of {{PROVIDER_FEE}} USD in accordance with the current exchange rate of Bitcoin to dollar  per minute, up to a maximum of {{MAX_INTERVIEW_TIME}} minutes.
+Maximum amount of interviews one can do : 100
+you make a request for 10 interviews to do 10 interviews. APPROVAL for .. 1,5,10,25,50
+Due time to complete the interview. If they dont do the 5 interviews in 14 days they lose the 5 approval.  they get payed for only what was done.
+To give them Approval for one by e-mail and then more if need be.*
 
 ### Art.10. Proof of payment
 PROVIDER shall issue a proof of the received cryptocurrency as stated in Art.7.5. of this contract.
@@ -129,9 +144,9 @@ PROVIDER shall issue a proof of the received cryptocurrency as stated in Art.7.5
 
 2. Either party may terminate the Agreement by a three-month notice to the other party. Either party may terminate the Agreement with immediate effect if the other party commits a material breach of any provision hereof.
 
-3. In the case that the **SERVICE PROVIDER** terminates the contract the parties agree that **SERVICE PROVIDER** must hand over and dispose of any and all personal information gathered from Interviewees. 
+4. This contract shall become effective on the Effective Date and shall, unless otherwise terminated in accordance with the provisions hereof, continue in effect for an indefinite term of years.
 
- 
+3. In the case that the **SERVICE PROVIDER** terminates the contract the parties agree that **SERVICE PROVIDER** must hand over and dispose of any and all personal information gathered from Interviewees. 
 
 ## **VII.     NOTICE**
 
@@ -170,14 +185,10 @@ Any disputes arising out of the performance of this Agreement shall be settled b
 
  
 
-The contract is in force effective ____.____2020
 
  
+| Client                                   | Service Provider                         |
+| ---------------------------------------- | ---------------------------------------- |
+| Signature<br><br><br> ------------------ | Signature<br><br><br> ------------------ |
 
-CLIENT____
-
-​                   /signature/
-
-SERVICE PROVIDER ____
-
-​                  /signature/
+The contract is in force effective ____.____2020
