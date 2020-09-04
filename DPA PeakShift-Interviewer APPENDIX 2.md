@@ -1,18 +1,22 @@
+[TOC]
+
 # APPENDIX 2
+
+## Definitions
 
 **Service Provider**: An individual/company contracted to provide services as part of this contract.
 
-**Client**: {{company_name}}. {{Company_name}} is also the data's administrator in regard to the provisions of the GDPR.
+**Client**: {{COMPANY_NAME}}. {{COMPANY_NAME}} is also the data's administrator in regard to the provisions of the GDPR.
 
-**GDPR** : General Data Protection Regulation 2016/679,
+**GDPR**: General Data Protection Regulation 2016/679,
 
 ---
 
-## Data Processing Agreement Peak Shift Ltd.
+## Data Processing Agreement {{COMPANY_NAME}}
 
 The following Data Processing Agreement is concluded between:
 
-Peak Shift Ltd., a company entered on the Bulgarian Commercial Register of the Registry Agency with Unique ID Code 204478925, having its registered office and place of business at addres_ Sofia, represented by _____name, Director, on the one hand,
+{{COMPAN_NAME}}, a company entered on the Bulgarian Commercial Register of the Registry Agency with Unique ID Code 204478925, having its registered office and place of business at addres_ Sofia, represented by _____name, Director, on the one hand,
 
 hereafter the **CLIENT**
 
@@ -26,7 +30,7 @@ The subject matter of the order is the data protection in the process of executi
 
 The contractually agreed service will be provided in the country of residency of the Service Provider unless agreed upon otherwise. Every outsourcing of a service or of part of the work to a third country requires the Client’s prior consent and may only be given provided the particular conditions of article 44 f. GDPR are fulfilled (e.g. the Commission’s adequacy decision, standard data protection clauses, approved code of conduct).
 
-The Agreement is concluded for for the duration of the main contract. The Client may terminate the Agreement at any time without compliance with a notice period, should the Service Provider have committed a severe infringement of the data protection regulations or the provisions of this Agreement, should the Service Provider be unable to carry out an instruction from the Client or should the Service Provider reject the Client’s control rights in breach of the Agreement. In particular, failure to comply with the obligations agreed in this Agreement and derived from article 28 GDPR constitutes a severe infringement.
+The Agreement is concluded for the duration of the main contract. The Client may terminate the Agreement at any time without compliance with a notice period, should the Service Provider have committed a severe infringement of the data protection regulations or the provisions of this Agreement, should the Service Provider be unable to carry out an instruction from the Client or should the Service Provider reject the Client’s control rights in breach of the Agreement. In particular, failure to comply with the obligations agreed in this Agreement and derived from article 28 GDPR constitutes a severe infringement.
 
 ## II. Nature and purpose of processing, type of personal data and categories of persons affected
 
@@ -34,13 +38,14 @@ The purpose of this Agreement is the lawful processing of data during the execut
 
 The data that is to be processed here relates to the following personal data: 
 
-• Contact data
-• Payment data 
-• Location data
-
+- Contact data (e-mail address and telephone number)
+- Payment account information
+- Name 
+- Address
 
 ### Categories of individuals affected:
-e.g. individuals, customers, interested parties, subscribers, employees, suppliers, commercial agents, other.
+- individuals contracted by the Client for the execution of the main contract between the parties. 
+
 
 ## III. Client’s rights and obligations and authority to issue instructions
 
@@ -56,11 +61,13 @@ The Client undertakes to treat as confidential all information on the Service Pr
 
 ## IV. Client’s representatives entitled to issue instructions, Service Provider’s recipients of instructions
 
-The following representatives of the Client are entitled to issue instructions: ______________________(Given name, family name, organizational unit, telephone, e-mail address)
-
-The following representatives of the Service Provider are entitled to receive instructions:
-
-__________________(Given name, family name, organizational unit, telephone, e-mail address) Communication will be conducted by e-mail.
+The following representatives of the Client are entitled to issue instructions: 
+- **_______________**, Research Director
+    - Tel: +442032872811
+    - research@bed.money
+- **_______________**, Director
+    - Tel: +442032872811
+    - research@bed.money
 
 In the event of a change of the contacts referred to above or their absence for a long period of time, the contractual partner must be informed of this person’s deputy immediately and, as a matter of principle, in writing or electronically, stating his/her e-mail address.
 
@@ -114,7 +121,7 @@ The Service Provider must agree major changes with the Client in a documented fo
 
 Both parties must retain agreements on technical and organizational measures as well as control and audit documents (also concerning sub-contractors) as long as they are in force and thereafter for a period of three full calendar years.
 
-After the contractual work has been completed, the Service Provider will be required to hand over to the Client or to delete or to destroy on instruction in a manner required by data protection law all data, documents and the results of processing and use in its possession as well those obtained by the sub-contractor in connection with the contractual relationship. The deletion or destruction together with the date must be confirmed to the Client in writing or in an electronically documented format. This will not apply should legal retention requirements preclude deletion.
+After the contractual work has been completed, the Service Provider will be required to hand over to the Client and to delete or to destroy on instruction in a manner required by data protection law, all data, documents and the results of processing and use in its possession as well those obtained by the sub-contractor in connection with the contractual relationship. The deletion or destruction together with the date must be confirmed to the Client in writing or in an electronically documented format. This will not apply should legal retention requirements preclude deletion.
 
 ## X. Fees
 
@@ -126,24 +133,103 @@ Side-agreements must be agreed in writing. Should individual parts of this Agree
 
 This Agreement was drawn up in English and signed in two identical copies, a copy to be obtained by each party.
 
-Place, date Place, date
 
-Client Service Provider
 
-# Attachment:
 
-“Check list: Documentation of technical and organisational measures”   Check list: documentation of technical organisational measures Content of the rule
+| Client     | Service Provider |
+| ---------- | ---------------- |
+| Signature<br><br><br> _______________________ | Signature<br><br><br> _______________________ |
+
+{{Place}}, {{date}} 
+
+---
+
+# Attachment
+
+“Check list: Documentation of technical and organisational measures” Check list: documentation of technical organisational measures Content of the rule
 
 ## Examples: 
-Entry control (Measures to prevent unauthorized entry) □ Access control system, central management of keys, magnetic card, biometric barriers to access □ Keys/issue of keys is centrally and organizationally clearly established □ Clear allocation of entitlements (access to the building, office, server room) □ Protection of the building at nights and weekends guaranteed □ Porter’s lodge/reception equipped with video surveillance □ Careful selection of employees involved with security □ Rules governing visitors (visitor’s pass, accompanied whilst in the building, visits recorded) □ Video surveillance of sensitive parts of the building (basement garage) □ Cupboards and offices locked during absence □ Alarm system Memory control (Prevention of unauthorized entry of personal data as well as unauthorized disclosure, alteration and deletion of personal data) □ Authentication with user and password, management of user entitlements □ Guideline on log-in passwords concerning length, combination of letters and numbers, no trivial passwords, passwords changed at regular intervals, pre-inserted passwords must be changed; □ Automatic exclusion (e.g. rules on automatic blocking of computer after a certain period of inactivity (approx. 5 min) requiring subsequent renewed log-in). □ In addition to automatic blocking: manual signing-out on leaving the office □ Automatic standby-operation of the local computer Data medium control (Prevention of unauthorised reading, copying, alteration or deletion of data media) □ Encoding hard disc of laptops/ data media and smartphones □ Possibility of deletion of smartphones in the event of loss □ Blocking external interfaces (e.g. USB connections) User control (Prevention of use of automatic processing systems with the aid of installations for unauthorized data transmission) □ Use of anti-virus software
-□ Use of firewalls
-□ Use VPN technologies
-Access control (The entitlements concept and access rights are designed according to requirements as are surveillance of the systems and record-keeping) □ Differentiated entitlements (profiles, roles) □ Logging of access to applications, particularly as regards input, alteration and deletion of data □ Differentiated filing concept (e.g. all files should be named in a uniform and logical manner and stored in such a way that they can be recovered without any problems). □ Data media must be clearly identified and securely stored/ clear separation of data media from different clients required. □ Correct deletion of data and/or destruction of data media; use of carefully selected service providers to carry out destruction of files and data (certificate). □ Logging destruction of data
-□ Data media (USB sticks, CD-ROMs) with confidential material may not be left lying around □ Adaptation of standard settings relevant to security in the case of new programs and IT systems □ Deactivation of programs and functions relevant to security that are no longer required (chiefly in the case of smartphones)
+Entry control (Measures to prevent unauthorized entry)
+
+
+
+- [ ] Access control system, central management of keys, magnetic card, biometric barriers to access 
+- [ ] Keys/issue of keys is centrally and organizationally clearly established 
+- [ ] Clear allocation of entitlements (access to the building, office, server room) 
+- [ ] Protection of the building at nights and weekends guaranteed 
+- [ ] Porter’s lodge/reception equipped with video surveillance 
+- [ ] Careful selection of employees involved with security 
+- [ ] Rules governing visitors (visitor’s pass, accompanied whilst in the building, visits recorded) 
+- [ ] Video surveillance of sensitive parts of the building (basement garage) 
+- [ ] Cupboards and offices locked during absence 
+- [ ] Alarm system Memory control (Prevention of unauthorized entry of personal data as well as unauthorized disclosure, alteration and deletion of personal data) 
+- [ ] Authentication with user and password, management of user entitlements 
+- [ ] Guideline on log-in passwords concerning length, combination of letters and numbers, no trivial passwords, passwords changed at regular intervals, pre-inserted passwords must be changed; 
+- [ ] Automatic exclusion (e.g. rules on automatic blocking of computer after a certain period of inactivity (approx. 5 min) requiring subsequent renewed log-in). 
+- [ ] In addition to automatic blocking: manual signing-out on leaving the office 
+- [ ] Automatic standby-operation of the local computer Data medium control (Prevention of unauthorised reading, copying, alteration or deletion of data media) 
+- [ ] Encoding hard disc of laptops/ data media and smartphones 
+- [ ] Possibility of deletion of smartphones in the event of loss 
+- [ ] Blocking external interfaces (e.g. USB connections) User control (Prevention of use of automatic processing systems with the aid of installations for unauthorized data transmission) 
+- [ ] Use of anti-virus software
+- [ ] Use of firewalls
+- [ ] Use VPN technologies
+
+Access control (The entitlements concept and access rights are designed according to requirements as are surveillance of the systems and record-keeping) 
+- [ ] Differentiated entitlements (profiles, roles) 
+- [ ] Logging of access to applications, particularly as regards input, alteration and deletion of data 
+- [ ] Differentiated filing concept (e.g. all files should be named in a uniform and logical manner and stored in such a way that they can be recovered without any problems). 
+- [ ] Data media must be clearly identified and securely stored/ clear separation of data media from different clients required. 
+- [ ] Correct deletion of data and/or destruction of data media; use of carefully selected service providers to carry out destruction of files and data (certificate). 
+- [ ] Logging destruction of data
+- [ ] Data media (USB sticks, CD-ROMs) with confidential material may not be left lying around 
+- [ ] Adaptation of standard settings relevant to security in the case of new programs and IT systems 
+- [ ] Deactivation of programs and functions relevant to security that are no longer required (chiefly in the case of smartphones)
 
 ## Transfer control
-(Verification and identification at which points personal data were transmitted or made available or can be made available with the aid of data transmission installations) □ E-mail encoding
-□ Tunnel connection (VPN = Virtual Private Network) □ Electronic signature possible □ Hardware and software that has not been released should not be used □ No forwarding of e-mails to employees’ private e-mail accounts □ Rules regarding handling of backup tapes □ Guideline governing printing out secret documents (ensuring that no else can inspect printouts). □ Rules governing use of USB sticks and CD-ROMs □ Logging recipients of data and the duration of planned availability or agreed deletion deadlines Transport control (Measures to ensure secure transmission of personal data as well as the secure transportation of data media) □ Secure transport containers/packaging □ Careful selection of transport personnel and vehicles □ Forwarding of data in anonymized form or use of pseudonyms □ Creation of a summary of regular call-off and transmission transactions
-Input control (Measures enabling subsequent verification as to whether and by whom data has been entered, altered or removed (deleted)) □ Logging and logging evaluation systems are used or can be applied as part of existing software applications □ Access to data processing systems only possible after log-in □ No forwarding of passwords □ Creation of a summary of which data can be entered, altered and deleted with which applications □ Logging entry, alteration and deletion of data Order control (The measures (technological and organizational ) to determine the division of powers between client and service provider are adequately determined in terms of data protection law) □ Written Agreement exists □ Order only mandated in accordance with instructions or formalized order award system (order form) or written instructions □ Criterion for selection of service provider are complied with (certification) □ Permanent checks on service provider and his activities; particularly in regards to ensuring employees’ obligation to safeguard the confidentiality of the data; prior checks on the security measures taken by the service provider and appropriate documentation; agree rights to exercise effective control over the service provider □ Data protection officer ensures checks that Agreement is carried out Recoverability (Systems can be recovered in the event of a malfunction) □ Creation of backup and recovery concept (which data is secured and for how long? inclusion of laptops and systems not covered by network; regular checks on backup tapes; documentation of security procedures) □ Mirroring of hard discs, e.g. RAID procedure □ Testing of data recovery Accessibility control (Measures to counter accidental destruction or loss of data (data security (physical/logical) □ Separate storage of data/ storage of data backup at a secure external location □ Protection against fire, excessive heat, water damage, electrical surge and power breakdown in the server room □ Emergency plan exists and is regularly tested □ Emergency electricity supply/uninterrupted power supply □ Fire extinguishers in the server rooms, alarm in event of unauthorized entry to server rooms, fire and smoke alarm systems □ Air conditioning in server rooms/protected socket conduits in server rooms Separability (Measures to ensure that personal data can be processed separately) □ Physically separate storage on special systems or data media
-□ Separation of operating and test systems □ Logical separation of clients Reliability (Ensuring that all the functions in the system are available and that malfunctions are reported)□ Monitoring of the services required for the processing of personal data with alarm facility in the event of malfunctions Data integrity (Ensuring that stored personal data cannot be damaged as a result of system malfunctions) □ Regular checks on the integrity of data banks in which personal data is stored
-□ Integrity checks of IT systems/applications with which personal data is processed Other □ Creation of inventory list (transparent in the event of loss; amount insured) □ Creation and regular updating of installation and system documentation □ Regular maintenance
+(Verification and identification at which points personal data were transmitted or made available or can be made available with the aid of data transmission installations) 
+
+- [ ] E-mail encoding
+- [ ] Tunnel connection (VPN = Virtual Private Network) 
+- [ ] Electronic signature possible 
+- [ ] Hardware and software that has not been released should not be used 
+- [ ] No forwarding of e-mails to employees’ private e-mail accounts 
+- [ ] Rules regarding handling of backup tapes 
+- [ ] Guideline governing printing out secret documents (ensuring that no else can inspect printouts). 
+- [ ] Rules governing use of USB sticks and CD-ROMs 
+- [ ] Logging recipients of data and the duration of planned availability or agreed deletion deadlines Transport control (Measures to ensure secure transmission of personal data as well as the secure transportation of data media) 
+- [ ] Secure transport containers/packaging 
+- [ ] Careful selection of transport personnel and vehicles 
+- [ ] Forwarding of data in anonymized form or use of pseudonyms 
+- [ ] Creation of a summary of regular call-off and transmission transactions
+
+Input control (Measures enabling subsequent verification as to whether and by whom data has been entered, altered or removed (deleted)) 
+
+- [ ] Logging and logging evaluation systems are used or can be applied as part of existing software applications 
+- [ ] Access to data processing systems only possible after log-in 
+- [ ] No forwarding of passwords 
+- [ ] Creation of a summary of which data can be entered, altered and deleted with which applications 
+- [ ] Logging entry, alteration and deletion of data Order control (The measures (technological and organizational ) to determine the division of powers between client and service provider are adequately determined in terms of data protection law) 
+- [ ] Written Agreement exists 
+- [ ] Order only mandated in accordance with instructions or formalized order award system (order form) or written instructions 
+- [ ] Criterion for selection of service provider are complied with (certification) 
+- [ ] Permanent checks on service provider and his activities; particularly in regards to ensuring employees’ obligation to safeguard the confidentiality of the data; prior checks on the security measures taken by the service provider and appropriate documentation; agree rights to exercise effective control over the service provider 
+- [ ] Data protection officer ensures checks that Agreement is carried out Recoverability (Systems can be recovered in the event of a malfunction) 
+- [ ] Creation of backup and recovery concept (which data is secured and for how long? inclusion of laptops and systems not covered by network; regular checks on backup tapes; documentation of security procedures) 
+- [ ] Mirroring of hard discs, e.g. RAID procedure 
+- [ ] Testing of data recovery Accessibility control (Measures to counter accidental destruction or loss of data (data security (physical/logical) 
+- [ ] Separate storage of data/ storage of data backup at a secure external location 
+- [ ] Protection against fire, excessive heat, water damage, electrical surge and power breakdown in the server room 
+- [ ] Emergency plan exists and is regularly tested 
+- [ ] Emergency electricity supply/uninterrupted power supply 
+- [ ] Fire extinguishers in the server rooms, alarm in event of unauthorized entry to server rooms, fire and smoke alarm systems 
+- [ ] Air conditioning in server rooms/protected socket conduits in server rooms Separability (Measures to ensure that personal data can be processed separately) 
+- [ ] Physically separate storage on special systems or data media
+- [ ] Separation of operating and test systems 
+- [ ] Logical separation of clients Reliability (Ensuring that all the functions in the system are available and that malfunctions are reported)
+- [ ] Monitoring of the services required for the processing of personal data with alarm facility in the event of malfunctions Data integrity (Ensuring that stored personal data cannot be damaged as a result of system malfunctions) 
+- [ ] Regular checks on the integrity of data banks in which personal data is stored
+- [ ] Integrity checks of IT systems/applications with which personal data is processed Other 
+- [ ] Creation of inventory list (transparent in the event of loss; amount insured) 
+- [ ] Creation and regular updating of installation and system documentation 
+- [ ] Regular maintenance
