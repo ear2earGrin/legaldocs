@@ -21,6 +21,8 @@ MAX_INTERVIEW_TIME: 60 mins
 
 **information**: data about the financial habits of the interviewed participant.
 
+**interview**: Number of questions (survey) ,carried out with an individual by the PROVIDER, answered, transcribed and finally sent to CLIENT in the form of depersonified data. 
+
 **interviewee**: the individuals which the PROVIDER has contracted in order to gather information.
 
 **data processing agreement** : an integral part of this contract setting out the personal data protection policy between the parties
@@ -70,6 +72,8 @@ Any services not stated above should be considered as out of the scope of this A
 1. To receive current and true information about the work process of the **SERVICE PROVIDER** and the information gathered.
 2. To control and give opinions and recommendations in respect of the activities of **SERVICE PROVIDER**;
 3. To require that the fee paid to **SERVICE PROVIDER** is documented as agreed upon hereunder according to the terms and conditions of this Agreement. 
+4. Determine the due time for an interview to be completed as agreed upon hereunder in the "Amendments and Termination of the agreement" section.
+5. Determine the maximum and initial amout of interviews approved for the PROVIDER to carry out as agreed upon hereunder in the "Amendments and Termination of the agreement" section.
 
 ### Art. 5. CLIENT takes upon themselves
 
@@ -85,6 +89,7 @@ Any services not stated above should be considered as out of the scope of this A
 
 6.    To provide the **SERVICE PROVIDER** with a standard services contract that is to be signed between the **SERVICE PROVIDER** and the interviewee. 
 
+
 ## **III.      RIGHTS AND OBLIGATIONS OF THE SERVICE PROVIDER**
 
 ### Art. 6.  SERVICE PROVIDER's rights
@@ -96,6 +101,9 @@ Any services not stated above should be considered as out of the scope of this A
 3. To receive any documents necessary for the proper performance of its duties under this agreement;
 
 4. To use at its expense the services of other persons or companies to accomplish the intention of this Contract being responsible for their actions as if taken by **SERVICE PROVIDER**.
+5. To request from the CLIENT an approval for additional interviews after the first interview has been concluded and the information gathered from it handled to the CLIENT.
+
+
 
 ### Art. 7.  SERVICE PROVIDER's obligations
 
@@ -124,14 +132,9 @@ graph LR
 
 ### Art. 9. Methodology of payment
 1. The CLIENT shall repay the SERVICE PROVIDER in the form of the cryptocurrency "Bitcoin". 
-2. The amount of Bitcoin received will be calculated as the equivalent of  {{provider_fee}} USD in accordance with the current exchange rate of Bitcoin to dollar at the time of sending, listed on coinmarketcap.com. All prices are exclusive VAT.
-3. The CLIENT shall repay the SERVICE PROVIDER in a maximum of 14 days after the service has been completed and the information gathered by SERVICE PROVIDER transfered to the CLIENT as agreed upon in Art.7 of this contract.
-
-*Set amount per interview (first 30 mins, but not less than 20 min), then X equivalent of {{PROVIDER_FEE}} USD in accordance with the current exchange rate of Bitcoin to dollar  per minute, up to a maximum of {{MAX_INTERVIEW_TIME}} minutes.
-Maximum amount of interviews one can do : 100
-you make a request for 10 interviews to do 10 interviews. APPROVAL for .. 1,5,10,25,50
-Due time to complete the interview. If they dont do the 5 interviews in 14 days they lose the 5 approval.  they get payed for only what was done.
-To give them Approval for one by e-mail and then more if need be.*
+2. The parties aknowledge that the amount of Bitcoin owed by the CLIENT will be calculated in accordance with the listed on coinmarketcap.com current exchange rates at the time of the sending of the cryptocurrency for each separate transaction. All prices are exclusive VAT.
+3. The amount of Bitcoin received will be calculated as the equivalent of {{provider_fee}} USD for the first 30 (thirty) minutes of an audio interview, given that the total  interview is no less than 20 (twenty) minutes in length. In the case that an audio interview is longer than 30 (thirty) minutes, up to a maximum of {{MAX_INTERVIEW_TIME}} minutes, the agreed upon fee in Bitcoin received for the extra duration is to amount to {{provider_fee}} Bitcoin. The parties agree that the provisions of Art.9.2. of this contract are to be complied to in regards to the applicable exchange rates.
+4. The CLIENT shall repay the SERVICE PROVIDER in a maximum of 14 days after the service has been completed and the information gathered by SERVICE PROVIDER transfered to the CLIENT as agreed upon in Art.7 of this contract.
 
 ### Art.10. Proof of payment
 PROVIDER shall issue a proof of the received cryptocurrency as stated in Art.7.5. of this contract.
@@ -144,9 +147,13 @@ PROVIDER shall issue a proof of the received cryptocurrency as stated in Art.7.5
 
 2. Either party may terminate the Agreement by a three-month notice to the other party. Either party may terminate the Agreement with immediate effect if the other party commits a material breach of any provision hereof.
 
-4. This contract shall become effective on the Effective Date and shall, unless otherwise terminated in accordance with the provisions hereof, continue in effect for an indefinite term of years.
+3. This contract shall become effective on the Effective Date and shall, unless otherwise terminated in accordance with the provisions hereof, continue in effect for an indefinite term of years.
 
-3. In the case that the **SERVICE PROVIDER** terminates the contract the parties agree that **SERVICE PROVIDER** must hand over and dispose of any and all personal information gathered from Interviewees. 
+4. In the case that the **SERVICE PROVIDER** terminates the contract the parties agree that **SERVICE PROVIDER** must hand over and dispose of any and all personal information gathered from Interviewees. 
+
+5. Both parties agree that the due time to complete an interview after one has been approved is 2 (two) months after the initial appproval by the CLIENT. After this period the number of interviews approved are set to 0 (zero) until further approval by the CLIENT.
+
+6. Both parties agree that the number of interviews approved by the CLIENT are initially set to 1 (one) interview. Unless requested by the PROVIDER and approved by the CLIENT (in this order), any extra interviews completed by the PROVIDER are not to be repaid by the CLIENT. 
 
 ## **VII.     NOTICE**
 
@@ -192,3 +199,5 @@ Any disputes arising out of the performance of this Agreement shall be settled b
 | Signature<br><br><br> ------------------ | Signature<br><br><br> ------------------ |
 
 The contract is in force effective ____.____2020
+
+ 
