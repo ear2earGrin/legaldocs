@@ -1,5 +1,6 @@
 ---
 COMPANY_NAME: Peak Shift Ltd.
+Bitcoin_Amount: 0,0025
 ---
 
 - TASK:
@@ -93,13 +94,7 @@ Both sides agree that **PROVIDER** may only employ third parties to assist him i
 ## V. FEE
 
 ### Art. 9. Methodology of payment
-The **CLIENT** shall repay the **PROVIDER** in the form of the cryptocurrency bitcoin per concluded survey. The amount of bitcoin received will be calculated as the equivalent of ____ USD in accordance with the daily exchange rate of bitcoin to dollar, listed on coinmarketcap.com. All prices are exclusive VAT.
-
-*The equvallent ammount of X bitcoin (the one u send him) to dollar by the exchange rate of coinmarketcap.com
-TO HAVE IT SAY THAT THEY FIGURE OUT how to pay each other- in a separate annex between themselves and then send a proof (whatever kind).
-TO have a few templates for this clasue - Voucher/Money/Giftcards/Bitcoin etc.
-art.9 and 10*
-
+The **CLIENT** shall repay the **PROVIDER** per one concluded survey in an amount of dollars or other currency agreed upon by both parties, equvallent to {{Bitcoin_Amount}} bitcoin in accordance with the daily exchange rate of bitcoin to dollar for the chosen fiat currency, listed on coinmarketcap.com at the time of the sending of the cryptocurrency to the **PROVIDER**.
 
 ### Art.10. Proof of payment 
 **PROVIDER** shall issue a proof of the received cryptocurrency as stated in Art.7.2. of this contract.
