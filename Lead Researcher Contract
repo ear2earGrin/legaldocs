@@ -1,12 +1,21 @@
 ---
 COMPANY_NAME: Peak Shift Ltd.
 COMPANY_ADDRESS: 21 Moskovska St. B, fl.3, Sofia
-Effective_date: 
-payment: 
+Effective_DATE: ASD
+PAYMENT: $...
+CONTRACTING_PARTY_NAME: ASD
+CONTRACTING_PARTY_ADDRESS: ASD
+CONTRACTING_PARTY_ID_NUMBER: ASD
+CONTRACTING_PARTY_TEL: ASD
+CONTRACTING_PARTY_EMAIL: ASD
 ---
+
 [TOC]
+
 ---
+
 **Interviewing Service Contract** : The Service Contract for the carrying out of interviewes 
+
 **Data processing agreement** : An agreement between the CLIENT and a third-party regulating the processing of personal information.
 
 ---
@@ -14,7 +23,7 @@ payment:
 
 Today, **{{Effective_date}}** in the city of Sofia, between:
 
-{{COMPANY_NAME}}, a company registered in the Commercial Register of the Registry Agency with Unique ID Code **204478925**, with seat and registered address at {{COMPANY_ADDRESS}}, represented by the Manager **Johns Beharry**, hereinafter referred to as the **CONTRACTING PARTY**,on the one hand,
+{{COMPANY_NAME}}, a company registered in the Commercial Register of the Registry Agency with Unique ID Code **204478925**, with seat and registered address at {{COMPANY_ADDRESS}}, represented by the Manager **Johns Beharry**, hereinafter referred to as the **CONTRACTING PARTY**, on the one hand,
 
 and
 
@@ -34,6 +43,7 @@ the following contract was signed,
 4. Help designers and developers interpret the carried out research and give directions if needed on how to apply the findings to different projects.
 5. Collaborate with external parties to come up with new processes and improve existing ones regarding the execution of this contract and benefiting the CONTRACTING PARTY's business.
 6. Coordinate and assign tasks to core team members, etc.
+7. То proactively communicate with designers and developers in open source projects on bitcoindesign.slack.com platform in order to get feedback and raise awareness about the research results.
 
 ## II. RIGHTS AND OBLIGATIONS OF LEAD RESEARCHER
 ### Obligations 
@@ -44,12 +54,12 @@ the following contract was signed,
 2.	To provide consultation to the CONTRACTING PARTY for all research and analysis carried out by the LEAD RESEARCHER if such consultation is needed.
 3. To inform the CONTRACTING PARTY of the results of the work performed and to provide the CONTRACTING PARTY with a written report in the beginning of each month listing the actions taken and objectives completed; 
 4. When expressly authorized by the CONTRACTING PARTY and within the terms approved by the latter, to conclude an Service Contract for the carrying out of interviews on  behalf of and on the account of the CONTRACTING PARTY;  
-5. To monitor the terms, conditions and obligations under the Servic contract with the intervieweres, and to duly inform the CONTRACTING PARTY for any essential elements under the concluded service contract, as well as to protect the CONTRACTING PARTY’s interests;  
+5. To monitor the terms, conditions and obligations under the Service contract with the intervieweres, and to duly inform the CONTRACTING PARTY for any essential elements under the concluded service contract, as well as to protect the CONTRACTING PARTY’s interests;  
 6. To transfer ownership rights over the research articles completed to the CONTRACTING PARTY.
 
 ### Rights
 **Art.4.** The LEAD RESEARHCER has the right: 
-1. receive payment for expenses made for an educational course when agreed upon in advance between the  parties in writing. 
+1. Receive payment for expenses made for an educational course when agreed upon in advance between the  parties in writing. 
 2. To receive the payment agreed upon hereunder.
 3. To flexible working hours.
 4. To use a coworking space.
@@ -76,12 +86,13 @@ the following contract was signed,
 
 ## IV. FEE
 ### Payment Methodology 
-**Art.6.** For performing its obligations under the present contract, thе LEAD RESEARCHER receives remuneration amounting to a total of {{payment}} per month in a 7 days period after providing a written report of the carried out research and analysis done in the past month as agreed upon in Art.3.3.  
+**Art.6.** For performing its obligations under the present contract, thе LEAD RESEARCHER receives remuneration amounting to a total of {{PAYMENT}} per month in a 7 days period after providing a written report of the carried out research and analysis done in the past month as agreed upon in Art.3.3.  
 
 **Art.8.** The fee is to be payed via bank to the provided bank account: 
-**Account Holder Name:**
-**IBAN**: 
-**BIC:**
+
+| Account Holder Name | IBAN | BIC  |
+| ------------------- | ---- | ---- |
+| ....                | .... | .... |
 
 ### Taxation
 **Art.9.** All taxes and duties in connection with the execution of this contract are to be payed by the LEAD RESEARCHER in accordance with the provisions of the applicable law. 
@@ -91,7 +102,7 @@ the following contract was signed,
 
 ## V.CONFIDENDIALITY DECLARATION:
 ### Confidentiality
-**Art.11.** The PARTIES to the present contract perform their relations with loyalty and declare with the present Clause that they will treat and protect as strictly confidential the whole information an documentation that became known to them in relation to the execution of this Contract.
+**Art.11.** The LEAD RESEARCHER shall not disclose any information related to CONTRACTING PARTY or its business unless required by law or the information becomes publicly available or when disclosure of such information has been approved by CONTRACTING PARTY in advance. 
 
 ### GDPR compliance
 **Art.12.** The LEAD RESEARCHER hereby confirms that he has taken all technical, organizational and procedural actions to ensure an effective level of personal data protection according to the provisions of the applicable law. The LEAD RESEARCHER is authorized to process personal data provided by the CONTRACTING PARTY in order to perform the services hereunder. The CONTRACTING PARTY and the  LEAD RESEARCHER  shall set out in detail their personal data protection arrangements in relation to the General Data Protection Regulation in a stand-alone agreement, as an integral part of this Agreement (Appendix №2)
@@ -106,8 +117,14 @@ the following contract was signed,
 ### Contract Validity
 **Art.15.** This agreement is concluded for a period of 3 (three) months, effective from the date of its signing.
 
-**Art.16.** If within 1 (one) month before the expiration of this agreement, no written notification for termination is provided by one of the parties, the agreement continues to stay in full effect for another 12 (twelve) months. This clause automatically comes in force each time for each new expiration of the agreement period. 
+**Art.16.** If within 1 (one) month before the expiration of this agreement, no written notification for termination is provided by one of the parties, the agreement continues to stay in full effect for another 3 (three) months. This clause automatically comes in force each time for each new expiration of the agreement period. 
 
 ### Disputes 
 **Art.17.** Disputes on unsolved Contract issues will be resolved  by agreement and when this proves not to be possible – in accordance with the legal practice as per the civil legislation of the Republic of Bulgaria. 
 
+
+| CONTRACTING PARTY                                   | LEAD RESEARCHER                         |
+| ---------------------------------------- | ---------------------------------------- |
+| Signature<br><br><br> ------------------ | Signature<br><br><br> ------------------ |
+
+The contract is in force effective ____.____2020
