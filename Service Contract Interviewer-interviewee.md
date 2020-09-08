@@ -108,7 +108,7 @@ The **CLIENT** shall repay the **PROVIDER** per one concluded survey in an amoun
 Any amendments to this  Contract must be made in writing and signed by both parties
 
 ### Art.13. Termination
-Either party may terminate the Contract by a three-month notice to the other party. Either party may terminate the Agreement with immediate effect if the other party commits a material breach of any provision hereof.
+Either party may terminate the Contract by a three-month notice to the other party. Either party may terminate the Contract with immediate effect if the other party commits a material breach of any provision hereof.
 
 ### Art.14. Handling of information after Termination
 In the case that the **PROVIDER** terminates the contract the parties agree that **CLIENT** must dispose of any and all personal information (if any) gathered from **PROVIDER**.
