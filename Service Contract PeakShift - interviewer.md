@@ -4,8 +4,8 @@ COMPANY_ADDRESS: 21 Moskovska St. B, fl.3, Sofia
 MAX_INTERVIEW_TIME: 60 mins
 ---
 
-- TASK:
-- [ ] Mental health Clause? 
+### TASK
+- [ ] Mental health Clause?
 
 [TOC]
 
