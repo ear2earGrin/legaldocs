@@ -3,9 +3,6 @@ COMPANY_NAME: Peak Shift Ltd.
 Bitcoin_Amount: 0,0025
 ---
 
-- TASK:
-- [ ] Mental health Clause? 
-
 [TOC]
 
 
